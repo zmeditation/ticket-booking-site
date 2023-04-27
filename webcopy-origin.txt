@@ -1,0 +1,619 @@
+Uri: https://cdn11.ticketnew.com/css/main.css
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\css\main-4.css
+Content Type: text/css
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-100/Roboto-100.eot
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-100\Roboto-100-8.eot
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-100/Roboto-100.eot?
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-100\Roboto-100-9.eot
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-100/Roboto-100.svg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-100\Roboto-100-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-100/Roboto-100.ttf
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-100\Roboto-100-4.ttf
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-100/Roboto-100.woff
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-100\Roboto-100-4.woff
+Content Type: application/font-woff
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-100/Roboto-100.woff2
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-100\Roboto-100-4.woff2
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-300/Roboto-300.eot
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-300\Roboto-300-8.eot
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-300/Roboto-300.eot?
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-300\Roboto-300-9.eot
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-300/Roboto-300.svg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-300\Roboto-300-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-300/Roboto-300.ttf
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-300\Roboto-300-4.ttf
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-300/Roboto-300.woff
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-300\Roboto-300-4.woff
+Content Type: application/font-woff
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-300/Roboto-300.woff2
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-300\Roboto-300-4.woff2
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-500/Roboto-500.eot
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-500\Roboto-500-8.eot
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-500/Roboto-500.eot?
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-500\Roboto-500-9.eot
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-500/Roboto-500.svg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-500\Roboto-500-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-500/Roboto-500.ttf
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-500\Roboto-500-4.ttf
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-500/Roboto-500.woff
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-500\Roboto-500-4.woff
+Content Type: application/font-woff
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-500/Roboto-500.woff2
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-500\Roboto-500-4.woff2
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-700/Roboto-700.eot
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-700\Roboto-700-8.eot
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-700/Roboto-700.eot?
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-700\Roboto-700-9.eot
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-700/Roboto-700.svg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-700\Roboto-700-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-700/Roboto-700.ttf
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-700\Roboto-700-4.ttf
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-700/Roboto-700.woff
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-700\Roboto-700-4.woff
+Content Type: application/font-woff
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-700/Roboto-700.woff2
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-700\Roboto-700-4.woff2
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-900/Roboto-900.eot
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-900\Roboto-900-8.eot
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-900/Roboto-900.eot?
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-900\Roboto-900-9.eot
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-900/Roboto-900.svg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-900\Roboto-900-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-900/Roboto-900.ttf
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-900\Roboto-900-4.ttf
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-900/Roboto-900.woff
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-900\Roboto-900-4.woff
+Content Type: application/font-woff
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-900/Roboto-900.woff2
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-900\Roboto-900-4.woff2
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-regular/Roboto-regular.eot
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-regular\Roboto-regular-8.eot
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-regular/Roboto-regular.eot?
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-regular\Roboto-regular-9.eot
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-regular/Roboto-regular.svg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-regular\Roboto-regular-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-regular/Roboto-regular.ttf
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-regular\Roboto-regular-4.ttf
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-regular/Roboto-regular.woff
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-regular\Roboto-regular-4.woff
+Content Type: application/font-woff
+
+Uri: https://cdn11.ticketnew.com/fonts/Roboto-regular/Roboto-regular.woff2
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\fonts\Roboto-regular\Roboto-regular-4.woff2
+Content Type: binary/octet-stream
+
+Uri: https://cdn11.ticketnew.com/images/about-us.svg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\about-us-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn11.ticketnew.com/images/account-white.svg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\account-white-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn11.ticketnew.com/images/app-download.svg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\app-download-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn11.ticketnew.com/images/arrow-down.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\arrow-down-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/images/arrow-right.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\arrow-right-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/images/available.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\available-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/images/banner-next-icon.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\banner-next-icon-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/images/banner-prev-icon.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\banner-prev-icon-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/images/boxoffice.svg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\boxoffice-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn11.ticketnew.com/images/checkbox-checked.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\checkbox-checked-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/images/checkbox-hover.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\checkbox-hover-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/images/checkbox.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\checkbox-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/images/customer-care.svg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\customer-care-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn11.ticketnew.com/images/faq.svg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\faq-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn11.ticketnew.com/images/feedback.svg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\feedback-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn11.ticketnew.com/images/menu-pointer-icon.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\menu-pointer-icon-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/images/next-icon.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\next-icon-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/images/pager-active.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\pager-active-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/images/pager.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\pager-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/images/prev-icon.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\prev-icon-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/images/radio-button-hover.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\radio-button-hover-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/images/radio-button-selected.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\radio-button-selected-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/images/radio-button.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\radio-button-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/images/search.svg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\search-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn11.ticketnew.com/images/seat-selected.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\seat-selected-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/images/selected.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\selected-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/images/taken.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\taken-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/images/theatre-movie-list-bg.jpg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\theatre-movie-list-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn11.ticketnew.com/images/tn-location-white.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\images\tn-location-white-4.png
+Content Type: image/png
+
+Uri: https://cdn11.ticketnew.com/js/main.js
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\js\main-4.js
+Content Type: application/javascript
+
+Uri: https://cdn3.ticketnew.com/tn/tn_logo/tn-logo-01.svg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\tn_logo\tn-logo-01-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn3.ticketnew.com/tn_new/images/facebook.svg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn_new\images\facebook-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn3.ticketnew.com/tn_new/images/twitter.svg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn_new\images\twitter-4.svg
+Content Type: image/svg+xml
+
+Uri: https://img.ticketnew.com/tn/offer_banner/Digit/cdp.jpg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\offer_banner\Digit\cdp.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ticketnew.com/js/booking.js?v27
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\js\booking-1.js
+Content Type: application/javascript
+
+Uri: https://www.ticketnew.com/Sangam-Cinemas-4K-RGB-Laser-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets/Online-Ticket-Booking/1
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\Sangam-Cinemas-4K-RGB-Laser-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets\Online-Ticket-Booking\1.html
+Content Type: text/html
+
+Uri: https://www.ticketnew.com/Sangam-Cinemas-4K-RGB-Laser-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets/Online-Ticket-Booking/1/20230427
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\Sangam-Cinemas-4K-RGB-Laser-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets\Online-Ticket-Booking\1\20230427.html
+Content Type: text/html
+
+Uri: https://www.ticketnew.com/Sangam-Cinemas-4K-RGB-Laser-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets/Online-Ticket-Booking/1/20230428
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\Sangam-Cinemas-4K-RGB-Laser-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets\Online-Ticket-Booking\1\20230428.html
+Content Type: text/html
+
+Uri: https://www.ticketnew.com/Sangam-Cinemas-4K-RGB-Laser-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets/Online-Ticket-Booking/1/20230429
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\Sangam-Cinemas-4K-RGB-Laser-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets\Online-Ticket-Booking\1\20230429.html
+Content Type: text/html
+
+Uri: https://www.ticketnew.com/Sangam-Cinemas-4K-RGB-Laser-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets/Online-Ticket-Booking/1/20230430
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\Sangam-Cinemas-4K-RGB-Laser-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets\Online-Ticket-Booking\1\20230430.html
+Content Type: text/html
+
+Uri: https://www.ticketnew.com/Sangam-Cinemas-4K-RGB-Laser-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets/Online-Ticket-Booking/1/20230501
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\Sangam-Cinemas-4K-RGB-Laser-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets\Online-Ticket-Booking\1\20230501.html
+Content Type: text/html
+
+Uri: https://www.ticketnew.com/Sangam-Cinemas-4K-RGB-Laser-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets/Online-Ticket-Booking/1/20230502
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\Sangam-Cinemas-4K-RGB-Laser-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets\Online-Ticket-Booking\1\20230502.html
+Content Type: text/html
+
+Uri: https://www.ticketnew.com/Sangam-Cinemas-4K-RGB-Laser-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets/Online-Ticket-Booking/1/20230503
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\Sangam-Cinemas-4K-RGB-Laser-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets\Online-Ticket-Booking\1\20230503.html
+Content Type: text/html
+
+Uri: https://www.ticketnew.com/Sangam-Cinemas-4K-RGB-Laser-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets/Online-Ticket-Booking/1/20230504
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\Sangam-Cinemas-4K-RGB-Laser-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets\Online-Ticket-Booking\1\20230504.html
+Content Type: text/html
+
+Uri: https://www.ticketnew.com/Sree-Lakshmi-Cinemas-A-C-2K-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets/Online-Ticket-Booking/10850
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\Sree-Lakshmi-Cinemas-A-C-2K-Dolby-Atmos-Chennai-Book-My-Movie-Show-Tickets\Online-Ticket-Booking\10850
+Content Type: text/html
+
+vie-Tickets-Online-Show-Timings\Online-Advance-Booking\27110\C\Chennai\20230505.html
+Content Type: text/html
+
+Uri: https://www.ticketnew.com/Ponniyin-Selvan-2---Tamil-Movie-Tickets-Online-Show-Timings/Online-Advance-Booking/27110/C/Chennai/20230506
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\Ponniyin-Selvan-2---Tamil-Movie-Tickets-Online-Show-Timings\Online-Advance-Booking\27110\C\Chennai\20230506.html
+Content Type: text/html
+
+Uri: https://www.ticketnew.com/Ponniyin-Selvan-2---Tamil-Movie-Tickets-Online-Show-Timings/Online-Advance-Booking/27110/C/Chennai/20230507
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\Ponniyin-Selvan-2---Tamil-Movie-Tickets-Online-Show-Timings\Online-Advance-Booking\27110\C\Chennai\20230507.html
+Content Type: text/html
+
+q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\26939\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/26986/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\26986\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27036/7.jpg?5430892&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27036\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27110/7.jpg?8380755&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27110\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27116/7.jpg?9272190&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27116\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27120/7.jpg?6482781&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27120\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27150/7.jpg?180702&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27150\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27153/7.jpg?2628791&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27153\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27164/7.jpg?213995&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27164\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27199/7.jpg?4688691&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27199\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27207/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27207\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27209/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27209\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27210/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27210\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27211/7.jpg?311466&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27211\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27237/7.jpg?8491543&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27237\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27251/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27251\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27253/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27253\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27265/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27265\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27268/7.jpg?5414905&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27268\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27272/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27272\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27280/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27280\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27281/7.jpg?7248163&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27281\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27314/7.jpg?880895&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27314\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27317/7.jpg?7523900&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27317\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27318/7.jpg?5419196&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27318\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27319/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27319\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27320/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27320\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27339/7.jpg?922940&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27339\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27340/7.jpg?3135264&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27340\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27345/7.jpg?6577277&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27345\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27375/7.jpg?3398607&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27375\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27376/7.jpg?9298638&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27376\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27379/7.jpg?2741432&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27379\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27382/7.jpg?7205491&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27382\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27405/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27405\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27409/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27409\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27412/7.jpg?1845339&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27412\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27413/7.jpg?9634651&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27413\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27414/7.jpg?6450330&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27414\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27415/7.jpg?5844416&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27415\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27416/7.jpg?7338345&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27416\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27417/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27417\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27418/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27418\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27421/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27421\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27422/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27422\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27423/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27423\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27425/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27425\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27426/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27426\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27427/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27427\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27428/7.jpg?3948024&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27428\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27429/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27429\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27431/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27431\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27433/7.jpg?2990933&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27433\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27434/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27434\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27435/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27435\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27436/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27436\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27438/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27438\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27439/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27439\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27440/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27440\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27441/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27441\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/movie/27444/7.jpg?v63687047312303&x-oss-process=image/resize,m_mfit,w_330,h_400/quality,q_80
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\movie\27444\7.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/offer_banner/Agent/1920_400.jpg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\offer_banner\Agent\1920_400-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/offer_banner/Ponniyin_Selvan_2/1920_400.jpeg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\offer_banner\Ponniyin_Selvan_2\1920_400-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/offer_banner/Rudhran/1920_400.jpg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\offer_banner\Rudhran\1920_400-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/offer_banner/Vidyasagar/Website_Banner.jpg
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\offer_banner\Vidyasagar\Website_Banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.ticketnew.com/tn/pc/banner-next-icon.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\pc\banner-next-icon-1.png
+Content Type: image/png
+
+Uri: https://img.ticketnew.com/tn/pc/banner-prev-icon.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\pc\banner-prev-icon-1.png
+Content Type: image/png
+
+Uri: https://img.ticketnew.com/tn/pc/next-icon.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\pc\next-icon-1.png
+Content Type: image/png
+
+Uri: https://img.ticketnew.com/tn/pc/prev-icon.png
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\tn\pc\prev-icon-1.png
+Content Type: image/png
+
+Uri: https://www.ticketnew.com/online-advance-booking/Movies/C/Chennai
+File Name: C:\Downloaded Web Sites\www.ticketnew.com\online-advance-booking\Movies\C\Chennai.html
+Content Type: text/html
+
